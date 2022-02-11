@@ -15,9 +15,8 @@ Languages: HTML, CSS, JavaScript, React Tools: GitHub, Git, Zoom
 
 <h3 align=“center”>Connect with me:</h3>
 <div align=“center”>
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregory-crowder/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcrowder93@gmail.com)
-[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/girthworm#9108/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liib-dunham/)
+
 <hr>
 </div>
 <h3 align=“center”>Languages and Tools:</h3>
