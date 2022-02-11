@@ -1,6 +1,6 @@
 I am a detailed oriented critical thinking Software Developer. I have a background in customer service and administration which has given me the skills with team collaboration, problem solving, communication, and leadership. My next Software Developer role will allow me to use these tools. I am a passionate learner, who enjoys learning new technical knowledge.
 
-Languages: HTML, CSS, JavaScript, React Tools: GitHub, Git, Zoom
+React Tools: GitHub, Git, Zoom
 
 <h1 align="center">Hi 👋, I'm Libbi Dunham</h1>
 <h3 align="center">A Software Engineer passionate for learning</h3>
@@ -16,9 +16,9 @@ Languages: HTML, CSS, JavaScript, React Tools: GitHub, Git, Zoom
 <h3 align=“center”>Connect with me:</h3>
 <div align=“center”>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/libbi-dunham/">
-  <img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:libbi.dunham25@gmail.com)">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:libbi.dunham25@gmail.com">
 
-
+<h3 align=“center”>Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -33,7 +33,6 @@ Languages: HTML, CSS, JavaScript, React Tools: GitHub, Git, Zoom
 
 <hr>
 </div>
-<h3 align=“center”>Languages and Tools:</h3>
 
 <p align= “center”>
   <img height= “150" src=“https://github-readme-stats.vercel.app/api?username=Gcrowder93&theme=monokai&show_icons=true&include_all_commits=true” />
