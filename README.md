@@ -16,6 +16,7 @@ Languages: HTML, CSS, JavaScript, React Tools: GitHub, Git, Zoom
 <h3 align=“center”>Connect with me:</h3>
 <div align=“center”>
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liib-dunham/)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
 
 <hr>
 </div>
