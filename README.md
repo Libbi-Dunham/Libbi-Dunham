@@ -36,7 +36,7 @@ React Tools: GitHub, Git, Zoom
 <p align= "center">
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=libbi-dunham&theme=blueberry&show_icons=true&include_all_commits=true" />
 </p>
-  ![snake gif](https://github.com/Libbi-Dunham/Libbi-Dunham/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/Libbi-Dunham/Libbi-Dunham/blob/output/github-contribution-grid-snake.svg)
 <hr>
 
 
