@@ -39,7 +39,7 @@ React Tools: GitHub, Git, Zoom
   
   <img width="555px" src="https://github.com/Libbi-Dunham/Libbi-Dunham/blob/output/github-contribution-grid-snake.svg"
 
-<!--  ![snake gif](https://github.com/Libbi-Dunham/Libbi-Dunham/blob/output/github-contribution-grid-snake.svg) -->
+ ![snake gif](https://github.com/Libbi-Dunham/Libbi-Dunham/blob/output/github-contribution-grid-snake.svg)
 <hr>
 
 
