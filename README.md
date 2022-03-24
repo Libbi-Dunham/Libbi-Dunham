@@ -34,7 +34,7 @@ React Tools: GitHub, Git, Zoom
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
 
 <p align= "center">
-<img height= "150" src="https://github-readme-stats.vercel.app/api?username=libbi-dunham&theme=monokai&show_icons=true&include_all_commits=true" />
+<img height= "150" src="https://github-readme-stats.vercel.app/api?username=libbi-dunham&theme=blueberry&show_icons=true&include_all_commits=true" />
 </p>
 <hr>
 
