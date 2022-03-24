@@ -34,7 +34,8 @@ React Tools: GitHub, Git, Zoom
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
 
   <h3 align=“center”>Stats:</h3>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=libbi-dunham)](https://github.com/anuraghazra/github-readme-stats)
+ <img height= "150" src="https://github-readme-stats.vercel.app/api?username=libbi-dunham&theme=monokai&show_icons=true&include_all_commits=true" />
+
 <hr>
 </div>
 
