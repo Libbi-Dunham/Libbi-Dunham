@@ -33,12 +33,9 @@ React Tools: GitHub, Git, Zoom
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
 
-  <h3 align=“center”>Stats:</h3>
+ <p align= “center”>
  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=libbi-dunham&theme=monokai&show_icons=true&include_all_commits=true" />
-
+</p>
 <hr>
 </div>
 
-<p align= “center”>
-  <img height= “150" src=“https://github-readme-stats.vercel.app/api?username=Gcrowder93&theme=monokai&show_icons=true&include_all_commits=true” />
-</p>
